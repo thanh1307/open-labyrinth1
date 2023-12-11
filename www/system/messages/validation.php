@@ -1,0 +1,27 @@
+<?php defined('SYSPATH') or die('Không có quyền truy cập tập lệnh trực tiếp.');
+
+return array(
+	'alpha'         => ':chỉ được chứa các chữ cái',
+	'alpha_dash'    => ':chỉ được chứa số, chữ cái và dấu gạch ngang',
+	'alpha_numeric' => ':chỉ được chứa chữ cái và số',
+	'color'         => ':phải có màu',
+	'credit_card'   => ':phải là số thẻ tín dụng',
+	'date'          => ':Phải là ngày tháng',
+	'decimal'       => ':phải là số thập phân với :param2 vị trí',
+	'digit'         => ':phải là một chữ số',
+	'email'         => ':phải là một địa chỉ email',
+	'email_domain'  => ':phải chứa miền email hợp lệ',
+	'equals'        => ':phải bằng :param2',
+	'exact_length'  => ':phải dài chính xác :param2 ký tự',
+	'in_array'      => ':phải là một trong các tùy chọn có sẵn',
+	'ip'            => ':phải làm một địa chỉ ip',
+	'matches'       => ':phải giống với :param2',
+	'min_length'    => ':phải dài ít nhất :param2 ký tự',
+	'max_length'    => ':không được vượt quá :param2 ký tự dài',
+	'not_empty'     => ':không được để trống',
+	'numeric'       => ':phải là số',
+	'phone'         => ':phải là số điện thoại',
+	'range'         => ':phải nằm trong phạm vi từ :param2 đến :param3',
+	'regex'         => ':không khớp với định dạng được yêu cầu',
+	'url'           => ':phải là một url',
+);

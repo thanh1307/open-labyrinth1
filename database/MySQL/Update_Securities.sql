@@ -1,0 +1,1 @@
+UPDATE `map_securities` SET `name` = 'Chìa khóa (cần có chìa khóa để truy cập Hệ thống này)' WHERE `id` = 4 LIMIT 1 ;

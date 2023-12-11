@@ -1,0 +1,12 @@
+<?php defined('SYSPATH') or die('Không có quyền truy cập tập lệnh trực tiếp.'); ?>
+
+2023-05-18 02:20:09 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: images/ico/LOGO.png ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2023-05-18 02:20:09 --- ERROR: type: HTTP_Exception_404; code: 404; message: Unable to find a route to match the URI: images/ico/LOGO.png; file: C:\xampp\htdocs\var\www\Open-Labyrinth\www\system\classes\kohana\request.php; line: 1126; browser: -; browser version: -; resolution: -; user: -
+2023-05-18 03:11:12 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: images/ico/LOGO.png ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2023-05-18 03:11:12 --- ERROR: type: HTTP_Exception_404; code: 404; message: Unable to find a route to match the URI: images/ico/LOGO.png; file: C:\xampp\htdocs\var\www\Open-Labyrinth\www\system\classes\kohana\request.php; line: 1126; browser: -; browser version: -; resolution: -; user: -
+2023-05-18 18:34:11 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: images/ico/LOGO.png ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2023-05-18 18:34:11 --- ERROR: type: HTTP_Exception_404; code: 404; message: Unable to find a route to match the URI: images/ico/LOGO.png; file: C:\xampp\htdocs\var\www\Open-Labyrinth\www\system\classes\kohana\request.php; line: 1126; browser: -; browser version: -; resolution: -; user: author1
+2023-05-18 18:38:18 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: images/ico/LOGO.png ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2023-05-18 18:38:18 --- ERROR: type: HTTP_Exception_404; code: 404; message: Unable to find a route to match the URI: images/ico/LOGO.png; file: C:\xampp\htdocs\var\www\Open-Labyrinth\www\system\classes\kohana\request.php; line: 1126; browser: -; browser version: -; resolution: -; user: author1
+2023-05-18 19:13:39 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: images/ico/LOGO.png ~ SYSPATH\classes\kohana\request.php [ 1126 ]
+2023-05-18 19:13:39 --- ERROR: type: HTTP_Exception_404; code: 404; message: Unable to find a route to match the URI: images/ico/LOGO.png; file: C:\xampp\htdocs\var\www\Open-Labyrinth\www\system\classes\kohana\request.php; line: 1126; browser: -; browser version: -; resolution: -; user: -
